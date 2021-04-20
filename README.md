@@ -36,4 +36,4 @@ This application allows the user to do sign up, sign in (for now).
 ## Images
 
 #### Wireframe:
-![wireframe](https://ibb.co/VvcgxYs)
+![wireframe](https://imgur.com/huAw5eh.png)
