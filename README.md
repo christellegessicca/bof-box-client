@@ -20,7 +20,7 @@ This application allows the user to do sign up, sign in (for now).
 
 ### Technologies Used
 
--HTML
+- HTML
 - Javascript
 - CSS
 
