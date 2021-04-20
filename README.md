@@ -5,7 +5,7 @@ This application allows the user to do sign up, sign in (for now).
 
 ## Important Links
 
-- [Other Repo]()
+- [Other Repo](https://github.com/christellegessicca/bank-america-box-api)
 - [Deployed API](tba)
 - [Deployed Client](tba)
 
@@ -31,6 +31,7 @@ This application allows the user to do sign up, sign in (for now).
 - I need to get the sign-up/sign-in credentials to be stored
   and then take the user to the the Box UI where they can upload files.
 - Some more polishing will be added on the client side
+- I need to deploy this app
 
 
 ## Images
